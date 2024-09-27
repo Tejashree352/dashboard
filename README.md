@@ -1,4 +1,4 @@
-# Dashboard 🛒
+# Dashboard 
 
 A sleek and modern landing page for an Dashboard built with **React.js**, featuring dark/light mode and customizable color themes for a personalized user experience.
 
